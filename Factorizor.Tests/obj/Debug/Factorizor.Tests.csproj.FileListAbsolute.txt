@@ -1,0 +1,11 @@
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\bin\Debug\Factorizor.Tests.dll
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\bin\Debug\Factorizor.Tests.pdb
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\bin\Debug\Factorizor.BLL.dll
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\bin\Debug\Factorizor.BLL.pdb
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\obj\Debug\Factorizor.Tests.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\obj\Debug\Factorizor.Tests.csproj.CopyComplete
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\obj\Debug\Factorizor.Tests.dll
+C:\Users\Jeremy\source\repos\FactorizorTested\Factorizor.Tests\obj\Debug\Factorizor.Tests.pdb
